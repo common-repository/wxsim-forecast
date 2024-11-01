@@ -1,0 +1,16 @@
+.WXSIMforecastheader {
+	font-size: 10px;
+}
+
+.WXSIMforecastheader td {
+	text-align: center;
+	vertical-align:text-top;
+}
+
+.WXSIMforecastcontent {
+	font-size: 10px;
+}
+
+.WXSIMforecastcontent  td{
+	text-align: left;
+}

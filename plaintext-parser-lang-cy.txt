@@ -1,0 +1,238 @@
+# Language file for plaintext-parser.php program 
+# Version 0.16
+# translation - Welsh by Rob Douglass  http://www.jmrwebsolutions.co.uk
+# North - Gogledd, South - De, East - Dwyrain, West - Gorllewin
+lang|Mostly cloudy to cloudy in the evening|Yn gymylog iawn i gymylog yn yr hwyr|
+#lang|cloudy in|nuageux| (the 'in' depends on context)
+#
+#THIS SECTION WILL TRANSLATE SENTENCES TO A MORE NATURAL (LESS SYNTHETIC) LANGUAGE
+#
+lang|Cloudy in the morning|Cymylog yn y bore|
+lang|Patchy light fog after midnight|Niwl anghyson ysgafn ar &ocirc;l hanner nos|
+lang|Mostly cloudy to cloudy|Yn gymylog ar y cyfan i gymylog|
+lang| mostly cloudy to cloudy|Yn gymylog ar y cyfan i gymylog|
+lang|Mostly cloudy|Yn gymylog iawn|
+lang|Dense overcast|Cymylau trwchus|
+lang|Partly to mostly cloudy|Yn rhannol gymylog i gymylog ar y cyfan|
+lang|Fair to partly cloudy|teg i ychydig yn gymylog|
+lang|becoming partly to mostly|dod yn rhannol i braidd yn|
+lang|Precipitation mostly less than|Gwlybaniaeth yn llai ar y cyfan na|
+lang|in the evening|gyda'r nos|
+lang|less than|llai na|
+lang|mostly around|o gwmpas|
+lang|No snow accumulation expected|Ni ddisgwylir lluwchfeydd|
+lang|Snow accumulation |Eira'n lluwchio|
+#
+#TEMP FIX (MORE TESTING NEEDED)
+lang|in the|yn y|
+lang|wind chill|oerfel gwynt|
+lang|Wind chill|Oerfel gwynt|
+#
+lang|Chance of precipitation|Siawns o wlybaniaeth|
+lang|becoming|dod yn|
+lang|dense overcast|Cymylau trwchus|
+lang| then | yna |
+lang|A slight chance of|posibilrwydd bychan o|
+
+lang|afternoon|prynhawn|
+lang|cloudy|cymylog|
+lang|Patchy|ysbeidiol
+lang| slight | bach |
+lang| light | ysgafn |
+lang| fog | niwl |
+lang| fog.| niwl.|
+lang|Partly|Ychydig yn|
+lang| up to| hyd at|
+lang| to | i |
+lang| up | i fyny |
+lang|gusting|chwa|
+lang| mostly| ar y cyfan|
+lang|after|ar &ocirc;l|
+lang|likely|yn debygol|
+lang|midnight|hanner nos|
+lang|morning|bore|
+lang|Mostly|Ar y cyfan|
+lang| mostly| ar y cyfan|
+lang|partly|ychydig yn|
+lang|Light|ysgafn|
+lang|moderate|cymedrol|
+lang|evening|gyda'r nos|
+lang|Dense|Trwchus|
+lang|overcast|cymylog|
+lang|Moderate|Cymedrol|
+lang|dense|trwchus|
+lang|sunny|heulog|
+lang|Rain likely|glaw yn debygol
+lang|rain|glaw|
+#lang|A |Qualche | ********* temp removed *********
+lang|A ||
+lang| a | |
+lang|High|Uchaf|
+lang|Low|Isaf|
+lang|chance of|Posibilrwydd o|
+lang| but | ond |
+lang|temperatures falling|tymheredd yn disgyn|
+lang|temperatures rising|tymheredd yn codi|
+#lang|noralast|gogledddwyrain|  ?????
+lang|Wind east-|Gwynt o'r dwyrain- |
+lang|Wind west-|Gwynt o'r gorllewin- |
+lang|Wind east |Gwynt o'r dwyrain |
+lang|Wind west |Gwynt o'r gorllewin |
+lang|Wind north-|Gwynt o'r gogledd- |
+lang|Wind north |Gwynt o'r gogledd |
+lang|Wind south-|Gwynt o'r de- |
+lang|Wind south |Gwynt o'r de |
+ 
+lang|northeast|gogledd-ddwyrain|
+lang|northwest|gogledd-orllewin|
+lang|southeast|de-ddwyrain|
+lang|southwest|de-orllewin|
+lang|north-|gogledd- |
+lang|east-|dwyrain- |
+lang|south-|de- |
+lang|west-|gorllewin- |
+lang|north |gogledd |
+lang|east |dwyrain |
+lang|south |de |
+lang|west |gorllewin |
+lang|the|yr |
+
+lang|down | lawr|
+lang| or | neu |
+lang|around|o gwmpas|
+lang|kph|cm/a|
+lang|mph|mya|
+lang| near | yn agos i|
+lang| percent| y cant|
+lang|less than|llai na|
+lang| snow| eira|
+lang|Precipitation (liquid equivalent)|Gwlybaniaeth(hylif sy'n cyfateb)|
+lang| between |  rhwng |
+lang| and | a |
+lang|Precipitation|Gwlybaniaeth
+
+lang|accumulation expected|disgwylir lluwchfeydd
+lang|Little|Bach|
+lang|snow |eira |
+lang|Snow |Eira |
+lang|Snow accumulation|Lluwchfeydd |
+lang|about|o gwmpas|
+lang| no | dim |
+lang| one | un |
+lang|showery or intermittent|glaw ysbeidiol|
+lang|Rain|Glaw|
+lang|Fair|Teg|
+lang|fair|teg|
+lang|Cloudy|Cymylog|
+lang|calm|tawel|
+lang|Clear|Clir|
+lang|clear|clir|
+lang|Sunny|Heulog|
+lang| ice | rhew |
+lang|freezing|rhewi|
+lang|sleet|eirlaw|
+lang|a mix of|cymysgedd o|
+lang|mix of|cymysgedd o|
+lang|if any|peth|
+lang|on ground|ar y ddaear|
+lang|patchy|anghyson|
+lang|Thunderstorms likely, some possibly severe|Stormydd mellt a tharanau yn debygol, rhai yn arw|
+lang|Some thunder possible.|Rhywfaint o daranau yn debygol|
+lang|Some thunderstorms likely|Stormydd mellt a tharanau yn debygol|
+lang|quarter |chwarter |
+lang|tenth |degfed |
+lang|of an inch| modfedd|
+lang|half an inch|hanner modfedd|
+lang| inch| modfedd|
+lang|UV index|indecs UV|
+#lang| a a ||
+# ---=== Mario's added translation ===---
+lang|Wind|Gwynt|
+#
+# Translation of headings, periods and short conditions statements
+# headings
+#
+langlookup|WXSIM Forecast for:|Rhagolygon WX-SIM am:|
+langlookup|Issued by:|Cyhoeddwyd gan:|
+langlookup|Updated:|Diweddarwyd:|
+langlookup|High:|Uchaf:|
+langlookup|Low:|Isaf:|
+langlookup|Animated forecast icons courtesy of|Cwrteisi eiconau rhagolwg hanimeiddio o|
+langlookup|forecast formatting script by|sgript fformatio rhagolwg|
+#
+# I presume following at beginning of sentence, otherwise initial letter lower case)
+langlookup|Sunday|Dydd Sul|
+langlookup|Monday|Dydd Llun|
+langlookup|Tuesday|Dydd Mawrth|
+langlookup|Wednesday|Dydd Mercher|
+langlookup|Thursday|Dydd Iau|
+langlookup|Friday|Dydd Gwener|
+langlookup|Saturday|Dydd Sadwrn|
+langlookup|Sunday night|Nos Sul|
+langlookup|Monday night|Nos Lun|
+langlookup|Tuesday night|Nos Fawrth|
+langlookup|Wednesday night|Nos Fercher|
+langlookup|Thursday night|Nos Iau|
+langlookup|Friday night|Nos Wener|
+langlookup|Saturday night|Nos Sadwrn|
+langlookup|Today|Heddiw|
+langlookup|Tonight|Heno|
+langlookup|Rest of tonight|Gweddill y noson|
+langlookup|This afternoon|Prynhawn yma|
+# UV Index words
+langlookup|Low|Isaf|
+langlookup|Medium|Canolig|
+langlookup|High|Uchaf|
+langlookup|Very&nbsp;High|Uchaf&nbsp;Iawn|
+langlookup|Extreme|Eithaf|
+# Summary conditions lookup
+langlookup|Severe storm|Storm arw|
+langlookup|Showers storms|Storm cawod|
+langlookup|Thunder storm|Storm taran|
+langlookup|Rain Sleet|Glaw Eirlaw|
+langlookup|FrzgRn Snow|Glasrew ac eira|
+langlookup|Rain and Snow|Glaw ac eira|
+langlookup|Freezing Rain|Glasrew|
+langlookup|Rain likely|Glaw yn debygol|
+langlookup|Chance rain|Posibilrwydd o law|
+langlookup|Mix|Cymysgedd|
+
+langlookup|Sleet|Eirlaw|
+langlookup|Snow|Eira|
+langlookup|Fog a.m.|Niwl bore|
+langlookup|Fog late|Niwl yn hwyrach|
+langlookup|Fog|Niwl|
+langlookup|Very Cold|Oer iawn|
+langlookup|Very Hot|Poeth iawn|
+langlookup|Partly Cloudy|Braidd yn gymylog|
+langlookup|Mostly Cloudy|Cymylog ar y cyfan
+langlookup| mostly cloudy| cymylog ar y cyfan
+langlookup|Cloudy|Cymylog|
+langlookup|Overcast|Cymylog|
+langlookup|Partly Sunny|Ychydig yn heulog|
+langlookup|Mostly Sunny|Heulog ar y cyfan|
+langlookup|Mostly Clear|Clir ar y cyfan|
+langlookup|Sunny|Heulog|
+langlookup|Clear|Glir|
+langlookup|Fair|cymhedrol |
+langlookup|Variable Clouds|Cymylau cyfnewidiol|
+langlookup|Clear|Clir|
+# translation for cardinal wind directions must be in North-East-South-West order
+langlookup|NESW|GDEG|
+# translation for Beaufort Wind Force
+langlookup|Calm|Llonydd
+langlookup|Light air|Aer ysgafn|
+langlookup|Light breeze|Awel ysgafn|
+langlookup|Gentle breeze|Awel fwyn|
+langlookup|Moderate breeze|Gwynt cymedrol|
+langlookup|Fresh breeze|Gwynt ffres|
+langlookup|Strong breeze|Gwynt cryf|
+langlookup|Near gale|tymestl gymedrol
+langlookup|Gale|Tymestl|
+langlookup|Strong gale|tymestl gref|
+langlookup|Storm|Storm|
+langlookup|Violent storm|Storm ffyrnig |
+langlookup|Hurricane|corwynt|
+#
+
+# --- end of language file ------=
